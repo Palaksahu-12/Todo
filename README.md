@@ -3,6 +3,7 @@ A simple and clean Todo Manager built using React, Context API, and Local Storag
 This app allows users to add, edit, delete, and mark todos as completed while ensuring all tasks stay saved even after refreshing the page.
 
 Features:-
+
 1.Add new todos.
 
 2. Edit existing todos.
